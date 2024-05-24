@@ -16,7 +16,7 @@ const App = () => {
     }
     else{
       setMode('light');
-      document.body.style.backgroundColor = 'white';
+      document.body.style.backgroundColor = '#9e9ed6';
     }
   }
   const addTask = (text) => {
